@@ -22,19 +22,7 @@ jobs:
           token: ${{ secrets.WIKI_SYNC_TOKEN }}
 
       - name: Mirror markdown into wiki
-        run: |
-          rsync -a --delete \
-            --exclude='.git/' \
-            --exclude='.github/' \
-            --exclude='.obsidian/' \
-            --exclude='wiki/' \
-            --include='*/' \
-            --include='*.md' \
-            --exclude='*' \
-            ./ ./wiki/
-          if [ -f wiki/README.md ]; then
-            mv -f wiki/README.md wiki/Home.md
-          fi
+        run: python3 .github/scripts/sync_wiki.py . wiki
 
       - name: Commit and push
         run: |
