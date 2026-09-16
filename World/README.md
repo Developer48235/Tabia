@@ -8,4 +8,4 @@ _Not yet written._
 
 ## Pages
 
-- _(none yet)_
+- [Naming](./Naming.md) — naming rules and guide for the setting
