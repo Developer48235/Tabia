@@ -9,3 +9,4 @@ _Not yet written._
 ## Pages
 
 - [Naming](./Naming.md) — naming rules and guide for the setting
+- [Cosmology](./Cosmology.md) — the Moon, sky, and cosmos
