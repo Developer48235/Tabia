@@ -1,10 +1,14 @@
-# The Dragons & Deep History
+# Bestiary
 
-[← Back to Bestiary](./README.md)
+[← Back to Tabia home](./README.md)
 
-See also: [Naming](../World/Naming.md) — Planetary Dragons are named after geology concepts, such as epochs. [Metaphysics, Creation & Religion](../World/Metaphysics.md) — the Dragons did not create the mortal races.
+Monsters and creatures unique to Tabia, or notable local variants of familiar ones.
 
-## Nature of the Dragons
+## The Dragons & Deep History
+
+See also: [World](./World.md) — Naming (Planetary Dragons are named after geology concepts) and Metaphysics (the Dragons did not create the mortal races).
+
+### Nature of the Dragons
 
 Ancient, magical guardians protecting the realm, whose origins predate mortal recorded history.
 
@@ -12,7 +16,7 @@ Ancient, magical guardians protecting the realm, whose origins predate mortal re
 - Most dragons no longer view mortals as sentient beings, regarding them instead as mere automatons in a mechanistic universal structure.
 - A number of dragons are unnamed because they chose not to speak to mortals, so their names are only known among their own kind.
 
-## Named Dragons
+### Named Dragons
 
 - **Protos** — Dragon of Fire.
 - **Hatheia** — Dragon of the Dust, Moon, and Meteors.
@@ -25,7 +29,7 @@ Ancient, magical guardians protecting the realm, whose origins predate mortal re
 - **Miao Ling** — a Mountain Dragon.
 - **Furogni** — a Mountain Dragon.
 
-## Other Ancient Names
+### Other Ancient Names
 
 - Orsten
 - Loping

@@ -9,21 +9,20 @@ It's written in plain Markdown with relative links, so it works two ways:
 
 ## Contents
 
-| Section | What lives there |
+| Chapter | What lives there |
 |---|---|
-| [World](./World/README.md) | The pitch: tone, cosmology, calendar, core conceits of the setting |
-| [Geography](./Geography/README.md) | Continents, regions, cities, dungeons, landmarks |
-| [History](./History/README.md) | Timeline and major historical events |
-| [Factions](./Factions/README.md) | Kingdoms, guilds, religions, orders, and other organizations |
-| [Cultures](./Cultures/README.md) | Peoples, races, languages, customs |
-| [People](./People/README.md) | NPCs |
-| [Bestiary](./Bestiary/README.md) | Monsters and creatures unique to the setting |
-| [Items](./Items/README.md) | Artifacts and notable magic items |
-| [Session Log](./Session-Log/README.md) | Recaps of actual play sessions |
+| [World](./World.md) | The pitch: tone, cosmology, calendar, naming, and metaphysics of the setting |
+| [Geography](./Geography.md) | Continents, regions, cities, oceans, and landmarks |
+| [History](./History.md) | Timeline and major historical events |
+| [Factions](./Factions.md) | Kingdoms, guilds, religion, orders, and other organizations |
+| [Cultures](./Cultures.md) | Ancestries, society, and languages |
+| [People](./People.md) | NPCs |
+| [Bestiary](./Bestiary.md) | Monsters and creatures unique to the setting |
+| [Items](./Items.md) | Artifacts and notable magic items |
+| [Session Log](./Session-Log.md) | Recaps of actual play sessions |
 | [Maps](./Maps/) | Map images |
 
 ## Conventions
 
-- **Links** — use standard relative Markdown links (`[Name](../Folder/Page.md)`), not `[[wikilinks]]`. Obsidian renders both; GitHub only renders the former.
-- **New pages** — add a `.md` file in the relevant folder and link it from that folder's `README.md` index.
-- **One topic per page.** A city gets its own file; a one-line landmark can live as a subsection until it earns its own page.
+- **Links** — use standard relative Markdown links (`[Name](./Chapter.md)`), not `[[wikilinks]]`. Obsidian renders both; GitHub only renders the former.
+- **Structure** — one chapter file per topic area, plus this index. New material goes in as a new section (`##`) within the relevant chapter, not a new file — unless a topic grows large enough to need its own chapter.

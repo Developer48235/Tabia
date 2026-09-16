@@ -1,10 +1,14 @@
-# Cities
+# Geography
 
-[← Back to Geography](./README.md)
+[← Back to Tabia home](./README.md)
+
+Continents, regions, cities, dungeons, and landmarks.
+
+## Cities
 
 Cities function as **commanderies** — administrative divisions defined by their capacity to withstand a siege.
 
-## Major Cities & Commanderies
+### Major Cities & Commanderies
 
 - **Foundry** — The Industrial Capital.
 - **Artery** — The Caravan Capital.
@@ -13,7 +17,7 @@ Cities function as **commanderies** — administrative divisions defined by thei
 - **Primordia** — The Old Capital. Northern seat filled with ancient temples.
 - **Regnum** — The de jure Imperial Capital. Currently hemorrhaging money and heavily reliant on taxation.
 
-## Minor Settlements
+### Minor Settlements
 
 - **City of Hugo** — known for its sewers.
 - **City of Minoa** — known for its aqueducts.
@@ -29,6 +33,19 @@ Cities function as **commanderies** — administrative divisions defined by thei
 - **Town with Prehistoric Monuments Nearby**
 - **Town with a Literary Festival**
 
-## Rivers, Water, and Slums
+### Rivers, Water, and Slums
 
 Any city has two basic uses for its river: fresh drinking water, and sewers. A slum is either far from the river (and therefore far from the sewers), or, during certain times of the year, susceptible to flooding — in which case the slum effectively becomes the sewer. Historically this phenomenon mainly emerged after the industrial revolution; narratively, though, it's very dramatic, and useful for conveying poverty.
+
+## The Ocean
+
+Referred to as the boundless void. The imperial court views the sea primarily as a provincial policing matter (dealing with local piracy) and a customs checkpoint, rather than a strategic theater for military conquest.
+
+### Named Seas
+
+They give some thematic boundaries.
+
+- **Dragon Sea**
+- **Calm Sea**
+- **Sea of Madness**
+- **Jade Sea** — implication: subtropical climate.
