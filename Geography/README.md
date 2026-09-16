@@ -6,4 +6,4 @@ Continents, regions, cities, dungeons, and landmarks. One page per place once it
 
 ## Pages
 
-- _(none yet)_
+- [Cities](./Cities.md) — major commanderies and minor settlements
