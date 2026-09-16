@@ -4,6 +4,13 @@
 
 Continents, regions, cities, dungeons, and landmarks.
 
+## Regions
+
+- **The Commons** — the vast country where the campaign primarily takes place. It is the territory that the Imperials de jure lay claim to.
+- **The Northern Steppe** — another country.
+- **The Southern Jungles** — another country.
+- **The Strait of Mantis** — actually an incorrect name, referring to the capital city of another country. But the people of the Commons believe it to be the country in which that city resides.
+
 ## Cities
 
 Cities function as **commanderies** — administrative divisions defined by their capacity to withstand a siege.
