@@ -6,4 +6,5 @@ Peoples, races, languages, and customs of Tabia.
 
 ## Pages
 
-- _(none yet)_
+- [Society](./Society.md) — mortals, settlements, kinship, and demographics
+- [Languages](./Languages.md) — the languages of Tabia
