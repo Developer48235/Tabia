@@ -10,3 +10,4 @@ _Not yet written._
 
 - [Naming](./Naming.md) — naming rules and guide for the setting
 - [Cosmology](./Cosmology.md) — the Moon, sky, and cosmos
+- [Metaphysics, Creation & Religion](./Metaphysics.md) — the creation of mortals, the Dark Pantheon, and foreign gods

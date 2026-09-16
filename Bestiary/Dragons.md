@@ -2,7 +2,7 @@
 
 [← Back to Bestiary](./README.md)
 
-See also: [Naming](../World/Naming.md) — Planetary Dragons are named after geology concepts, such as epochs.
+See also: [Naming](../World/Naming.md) — Planetary Dragons are named after geology concepts, such as epochs. [Metaphysics, Creation & Religion](../World/Metaphysics.md) — the Dragons did not create the mortal races.
 
 ## Nature of the Dragons
 
