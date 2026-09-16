@@ -7,8 +7,8 @@ Continents, regions, cities, dungeons, and landmarks.
 ## Regions
 
 - **The Commons** — the vast country where the campaign primarily takes place. It is the territory that the Imperials de jure lay claim to.
-- **The Northern Steppe** — another country.
-- **The Southern Jungles** — another country.
+- **The Northern Steppe** — a country of hardy nomadic societies that survive on the move, despite the existence of magical apex predators.
+- **The Southern Jungles** — a climate zone of diverse societies. A common misconception is that jungle = primitive or small-scale, which is far from the case. The Deep Jungles are perceived by outsiders as impossibly dense, yet are home to the largest mortal city by surface area: Assembly.
 - **The Strait of Mantis** — actually an incorrect name, referring to the capital city of another country. But the people of the Commons believe it to be the country in which that city resides.
 
 ## Cities
