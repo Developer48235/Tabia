@@ -6,4 +6,4 @@ Kingdoms, guilds, religions, military orders, and other organizations with agend
 
 ## Pages
 
-- _(none yet)_
+- [Religion](./Religion.md) — the population's relationship to religion and cultists
