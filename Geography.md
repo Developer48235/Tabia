@@ -4,15 +4,16 @@
 
 ## Mesozoic Era Geography
 - ✅ The climate is closer to the Mesozoic Era, the time of dinosaurs.
-- ❌ Misconception: Not everywhere was tropical.
+	- ❌ Misconception: Not everywhere was tropical.
+	- ✅ This ecology supports very large monsters.
 - ✅ Much of the world is a super continent. 
 	- The inland regions are dry and arid. The interior faces extreme seasonal temperatures.
 	- The coastal regions are humid.
 - ✅ Enormous shallow seas are forming inland.
-- ❌ There are no vast grasslands/savanahs and much fewer flowering plants.
+- ❌ There are no vast grasslands/savanaahs and much fewer flowering plants.
 - Arctics
 	- ❌ There is no permanent continental-scale ice sheets like the arctics. The poles still did get ice/snow/freezing temperatures.
-	-✅ At the Poles Day and Night can last for months. Monsters/Animals would migrate in and out of the Poles.
+	- ✅ At the Poles Day and Night can last for months. Monsters/Animals would migrate in and out of the Poles.
 - ✅ Exotic trees
 	- ❌ No oaks, maples, palm forests, flower rich forests.
 	- Cycads, Ginkgo, Tree ferns & horsetails, Fungus . Large trees could be 60m.
