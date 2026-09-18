@@ -6,7 +6,7 @@ Kingdoms, guilds, religions, military orders, and other organizations with agend
 
 ## Major Factions
 
-- **Tribunal** — _not yet written._
+- **Tribunal** — adjudicators of the Law. They rely heavily on bounty hunters.
 - **Empire** — want to reunite the Empire.
 - **Shadow** — seekers of mystical secrets.
 - **Enclave** — rebels against authoritarians.

@@ -2,51 +2,36 @@
 
 [← Back to Tabia home](./README.md)
 
-Peoples, races, languages, and customs of Tabia.
-
-## Ancestries
-
-### Elves & Dwarves
-
-Ancient Elves and Dwarves have become a gerontocracy who own large portions of real estate.
-
-### Revenants
-
-- By law, Revenants lose their Estate to their mortal descendants. However, sometimes a Revenant fights this, in order to pursue their deathly agenda.
-- Revenants served a unique role in societies because their inability to die allowed mortal settlements to explore more safely. However, some people are unwilling to travel with Revenants because they don't know if the Revenant will take unwarranted risks or not.
-
-### Polders
-
-Polder architects have been adapting the environment to them, through the construction of small tunnels. This has helped them against larger predators, however it aids smaller predators such as Rats. Polders sometimes have Corruption Immunity, which has caused them to not fear it.
-
-## Society
+Many factors affect culture, but to begin with lets focus on how survival needs shaped it.
+## Apex Predators dominate
 
 ### Mortals
 
 - ✅ Non-human ancestries are not merely cosmetic changes. Their existence influenced societal development.
-- ❌ There are no mono-ancestry states, like ethnostates.
+- ❌ Mono-ancestry states, like ethnostates, are rare.
 - ✅ Society adapted to deal with local threats. This can be seen in the norms, behaviours, architecture, punishment, and politics.
-
 #### Apex Predators
 
-In an environment with potentially magical apex predators, Humans did not pastorally sprawl across the Commons. They evolved sensitivity to ambient magical fields. Humans do not fear magic.
-
-#### Sentinel Sleep Pattern
-
-Mortal sleep cycles mirror polyphasic "sentinel sleep" — never having the entire tribe unconscious at once. There is no standard 9-6 job.
+- ❌ **No pastoral sprawl.** In an environment dominated by magical apex predators, it was impossible. 
+- ✅ Humans evolved sensitivity to ambient magical fields. Humans do not fear magic.
+- ✅ **Sentinel Sleep Pattern.**  Mortal sleep cycles mirror polyphasic "sentinel sleep" — never having the entire tribe unconscious at once. There is no standard 9-6 job.
+- ✅ Settlements struggle to grow, relying heavily on defences. But the survival strategies vary by place and culture.
+- Local monster biology became a state secret, as it served a defensive role against mortal invaders.
 
 #### Wanderer
 
 This word evolved to have connotations for those who have a death wish. Strangers who enter your land were not seen as threats. Ostracization is the ultimate capital punishment, hence Etiquette culture.
+### Settlement Survival Strategies
+#### Underground
 
-#### Settlements
+Settlements are half underground, in order to provide haven from aerial predators.
+#### Siege Weaponry
+They rely on Chain Harpoon Ballistae to ground flying targets.
+#### Perimeters Clear Zones
 
-Settlements are half underground, in order to provide haven from aerial predators. They rely on Chain Harpoon Ballistae to ground flying targets. Local monster biology became a state secret, as it served a defensive role against mortal invaders.
-
-#### Clear Zones
-
-Outside fortified settlements, land would be cleared for kilometers. No forests or dense scrub would be tolerated near settlements, to prevent stalkers from using cover. Farming would rely heavily on terrace gardens inside fortress perimeters, rooftop hydro-plots, or fortified concentric baileys defended by continuous watchtowers.
-
+Outside fortified settlements, land would be cleared for kilometers. No forests or dense scrub would be tolerated near settlements, to prevent stalkers from using cover. 
+#### Farming
+Farming would rely heavily on terrace gardens inside fortress perimeters, rooftop hydro-plots, or fortified concentric baileys defended by continuous watchtowers.
 #### Egg Raiding as a Duty
 
 Statecraft would organize seasonal, state-sponsored culling expeditions to destroy monster nests, steal unhatched clutches, and eliminate broods before they reached adulthood.
@@ -135,3 +120,18 @@ See also: [World](./World.md) — languages should be given names that make it e
 - **Hieroglyphic** — the last Human imperial language, now a dead language of the Bronze Age, mainly used by the Undead.
 - **Terran** — the language of Dragons, and the first language of Earth.
 - **Grotte** — the language of the Underdark.
+
+## Ancestries
+
+### Elves & Dwarves
+
+Ancient Elves and Dwarves have become a gerontocracy who own large portions of real estate.
+
+### Revenants
+By law, Revenants lose their Estate to their mortal descendants. However, sometimes a Revenant fights this, in order to pursue their deathly agenda.
+
+Revenants served a unique role in societies because their inability to die allowed mortal settlements to explore more safely. However, some people are unwilling to travel with Revenants because they don't know if the Revenant will take unwarranted risks or not.
+
+### Polders
+
+Polder architects have been adapting the environment to them, through the construction of small tunnels. This has helped them against larger predators, however it aids smaller predators such as Rats. Polders sometimes have Corruption Immunity, which has caused them to not fear it.
