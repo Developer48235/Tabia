@@ -4,14 +4,15 @@
 
 ## Mesozoic Era Geography
 - ✅ The climate is closer to the Mesozoic Era, the time of dinosaurs.
+- ❌ Misconception: Not everywhere was tropical.
 - ✅ Much of the world is a super continent. 
-	- The inland regions are dry and arid. 
+	- The inland regions are dry and arid. The interior faces extreme seasonal temperatures.
 	- The coastal regions are humid.
 - ✅ Enormous shallow seas are forming inland.
 - ❌ There are no vast grasslands/savanahs and much fewer flowering plants.
-- ❌ There is no permanent continental-scale ice sheets like the arctics. The poles still did get ice/snow/freezing temperatures.
-- ❌ Misconception: Not everywhere was tropical.
-- ✅ At the Poles Day and Night can last for months. Monsters/Animals would migrate in and out of the Poles.
+- Arctics
+	- ❌ There is no permanent continental-scale ice sheets like the arctics. The poles still did get ice/snow/freezing temperatures.
+	-✅ At the Poles Day and Night can last for months. Monsters/Animals would migrate in and out of the Poles.
 - ✅ Exotic trees
 	- ❌ No oaks, maples, palm forests, flower rich forests.
 	- Cycads, Ginkgo, Tree ferns & horsetails, Fungus . Large trees could be 60m.
@@ -22,8 +23,19 @@
 	- ✅ Fortress walls use earthworks, not stone. 
 	- ❌ No medieval castles.
 
+## Other Landmasses
+
+- Chain of Volcanic Islands
+
 ## The Commons
 The primary country upon which stories take place. To the west it is bordered by forbidding mountains. To the east the endless sea. To south jungles. And finally to the north a Great Wall protects the commons from the corrupted wastes.
+
+## Mountains
+
+- ✅ When the super continent formed, massive mountain ranges formed in the collisions.
+- ✅ Enormous mountains → upland forests → valleys → rivers → coastal plains.
+- ✅ Mountain belts can be thousands of kilometers long.
+
 ## Cities
 
 Cities function as **commanderies** — administrative divisions defined by their capacity to withstand a siege.
