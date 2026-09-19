@@ -3,26 +3,33 @@
 [← Back to Tabia home](./README.md)
 
 ## Mesozoic Era Geography
-- ✅ The climate is closer to the Mesozoic Era, the time of dinosaurs.
+- ✅ The geography is closer to the Mesozoic Era, the time of dinosaurs.
 	- ❌ Misconception: Not everywhere was tropical.
 	- ✅ This ecology supports very large monsters.
+	- ✅ Volcanic Landscapes: Islands, Black Volcanic Beaches (covered by Ash) 
 - ✅ Much of the world is a super continent. 
 	- The inland regions are dry and arid. The interior faces extreme seasonal temperatures.
 	- The coastal regions are humid.
+	- Nobody knows how large the continent is.
 - ✅ Enormous shallow seas are forming inland.
-- ❌ There are no vast grasslands/savanaahs and much fewer flowering plants.
-- Arctics
+	- A civilization that used to be landlocked might suddenly find itself on a huge new coastline over time. Ancient settlements drowned beneath the sea.
+	- Shallow means: Pearl diving, Islands and exposed reefs, Mudflats and salt marshes, coastal plains, Sandbars and tidal channels, vast estuaries, larger biomass supporting larger predators.
+	- Evaporation can create enormous salt deposits. It is salt water, not fresh water lakes.
+	- Ammonite, Sharks, Ichthyosaur-marine predators, Plesiosaurs, Armoured Fish, Trilobite, Horseshoe-crab-like creatures, vast oyster/clam reefs, sea scorpions, 
+- ❌ There are no vast grasslands/savannas and much fewer flowering plants.
+- North and South Pole
 	- ❌ There is no permanent continental-scale ice sheets like the arctics. The poles still did get ice/snow/freezing temperatures.
 	- ✅ At the Poles Day and Night can last for months. Monsters/Animals would migrate in and out of the Poles.
 - ✅ Exotic trees
 	- ❌ No oaks, maples, palm forests, flower rich forests.
-	- Cycads, Ginkgo, Tree ferns & horsetails, Fungus . Large trees could be 60m.
-	- Secondary vegetation can be as larger as modern trees, 20-30m. 
+		- ✅ Cycads, Ginkgo, Tree ferns & horsetails, Fungus.
+	- ✅ The trees and plant life are twice as large, up to 60m trees. Vegetation can be as large as modern trees, 20-30m.
+		- This supports wooden structures that are twice as large, as the beam length and cross section can be larger in size. A royal hall could potentially be 100 metres long, with gigantic uninterrupted interior spaces.
 	- The largest sauropods were 20m.
-	- ❌ Much larger wood means stone structures are rarer. Stones are used for firebreaks, clay walls, underground water channels, or for isolated buildings.
-	- A royal hall could potentially be 100 metres long, with gigantic uninterrupted interior spaces.
-	- ✅ Fortress walls use earthworks, not stone. 
-	- ❌ No medieval castles.
+	- ❌ Much larger wood means stone structures are rarer. 
+		- ✅ Stones are used for foundations, firebreaks, clay walls, underground water channels, or for isolated buildings.
+		- ✅ Fortress walls use earthworks, not stone. 
+		- ❌ No medieval castles.
 
 ## Other Landmasses
 
