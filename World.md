@@ -1,10 +1,21 @@
-# World
+# TLDR
 
 [← Back to Tabia home](./README.md)
 
 The pitch for the setting: tone, genre touchstones, cosmology, the calendar, core conceits that make Tabia distinct from a generic fantasy world.
 
-_Not yet written._
+1. 🌿 Mesozoic era geography that supports megaforests and megafauna on a super continent.
+2. 🦀 Apex predators shaped how civilisation forms.
+3. 🏕️ 80% of the civilised population are soulless, which is randomly determined at birth.
+4. 🦄 Low level magic is common, even Humans are innately magical.
+5. 🌙 No native gods or organised religion. Cults operate, some using dark magic.
+6. 🐿️ 
+7. 🍄 Vast fungal networks run beneath the earth in the Underdark.
+8. 🌊 Inland seas create maritime societies.
+9. 🔥 Chinese style weapons
+	1. 🐍Fencing swords and Cho Ko Nu are insidious weapons, as they are specialised against Humanoid opponents, so used by internal security forces.
+	2. 👑 Guan dao and Chang dao are battlefield weapons, used primarily against Humanoids.
+	3. 🐞 Javelin is the weapon of low cost forest hunting, serving as both a melee and ranged weapon. The sabre is excellent in dense forests, so the wealthier use crossbows and sabres.
 
 ## Naming
 

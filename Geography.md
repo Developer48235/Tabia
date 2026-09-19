@@ -12,7 +12,7 @@
 	- The coastal regions are humid.
 	- Nobody knows how large the continent is.
 - ✅ Enormous shallow seas are forming inland.
-	- A civilization that used to be landlocked might suddenly find itself on a huge new coastline over time. Ancient settlements drowned beneath the sea.
+	- A civilization that used to be landlocked finds itself on a huge new coastline over time. Ancient settlements drowned beneath the sea.
 	- Shallow means: Pearl diving, Islands and exposed reefs, Mudflats and salt marshes, coastal plains, Sandbars and tidal channels, vast estuaries, larger biomass supporting larger predators.
 	- Evaporation can create enormous salt deposits. It is salt water, not fresh water lakes.
 	- Ammonite, Sharks, Ichthyosaur-marine predators, Plesiosaurs, Armoured Fish, Trilobite, Horseshoe-crab-like creatures, vast oyster/clam reefs, sea scorpions, 
@@ -37,12 +37,6 @@
 
 ## The Commons
 The primary country upon which stories take place. To the west it is bordered by forbidding mountains. To the east the endless sea. To south jungles. And finally to the north a Great Wall protects the commons from the corrupted wastes.
-
-## Mountains
-
-- ✅ When the super continent formed, massive mountain ranges formed in the collisions.
-- ✅ Enormous mountains → upland forests → valleys → rivers → coastal plains.
-- ✅ Mountain belts can be thousands of kilometers long.
 
 ## Cities
 
@@ -107,10 +101,33 @@ Tiers of play that involve saving the world involve these regions.
 - The Nexus. Actually part of the Main Continent, but it refers to an inhospitable mega region that connects to the Unknown Continent, Nexus and the Main Continent.
 - Unknown Continent. An isolated and vast island with hostile monsoon coasts and obstacles that deny access.
 - North and South Poles. Corrupted wastelands that are vortexes of magic.
+## Flora
 
-## Evolution of Plants
+### Red Woods
+**Root Caverns**. Their roots are shallow, creating caverns.
 
-### The Timeline
+**Second Ground.** Over hundreds of years, debris (fallen needles, dust, dead branches) gets caught in the massive forks of redwood branches hundreds of feet in the air. This debris breaks down into literal soil, suspended in the canopy. Whole ecosystems exist up there, including Ferns, small trees, and pools of water exist on these massive branches.
+- **Dawn Redwoods, the wetland redwoods.** Unlike the evergreen coastal redwoods, Dawn Redwoods are deciduous. Their feathery needles turn a brilliant, fiery orange and fall off in the autumn. They thrive in waterlogged soils, river valleys, and floodplains. While still massive by modern standards (up to 150 feet), they have heavily fluted, wide bases to anchor themselves in the mud, making them ideal for settlements built over swamps.
+- **Ancestral Coastal Redwoods.** Sky piercing trees that reach an astonishing 400 feet in height. They consume dense coastal fog. Year round they block most sunlight to the forest floor. Towering, straight trunks make them ideal for canopy cities interconnected by rope bridges.
+- **Ancestral Giant Sequoias, the mountain redwoods.** Vastly wider and more massive by volume, their surface bark is over two foot thick which making them immune to forest fire. In fact, they need the intense heat of wildfire just to open and release seeds. They thrive in dry high-altitude montane environments where fire sweeps out the underbrush.
+#### Jungle Tree Ferns
+They don't produce true wood; their "trunks" are actually dense, fibrous masses of roots, called a root mantle, with a spongy core, like kevlar. Axes bounce off them (or even bites in and gets swallowed by the fibrous matrix), making them terrible for lumber but excellent for absorbing impact. They are used to construct pallisades which are also naturally damp and hard to ignite.
+#### Barbed Wire Trees (Araucaria)
+Tall with painfully sharp, scale-like leaves that cover the branches like reptilian armor, specifically to deter long-necked sauropods from eating them. The fallen, dried branches act like natural caltrops. They evolved leaves that function less like foliage and more like interlocking plate armor covered in razors that make it almost unclimbable. Their leaves take years to rot as foliage. Its seed cones weigh 10 - 20 pounds. Settlers plant concentric rings of them to deter animals, or bind them to form barricades. Goblins use them like spiked clubs. 
+#### Cycadeoids (Bennettitales)
+Bizarre plants looked like stout palm trees or oversized pineapples with massive, fern-like fronds sprouting from the top. They smell like rotting meat, which attracts beetles and swarms of flies. They have a thick, milky neurotoxin sap, a paralytic. It is also thermogenic, generating heat to vaporise its scent miles away, while also helping it overcome snow.
+### Ginkgo
+Ginkgo wood is famously resistant to fire, rot, and boring insects, making them a premium building material for long-lasting wands, ship-hulls, or stronghold doors. The ground beneath a Ginkgoites canopy would be littered with rotting, toxic plum seeds.
+- **Wedge Ginkgo**: Wide fan leaves that block the rain, useful for shelter. The waxy stiff leaves are slippery when wet, and they pile up like a house of cards, creating a thick layer of leaves with hollow air pockets underneath.
+- **Needle Ginkgo** (Czekanowskia): Long drooping needles that turn bright yellow. This creates a needle carpet that can quickly start fires. The needles can also act like ball bearings on rocky inclines or mountain passes. When pulverised it is acidic.
+- **Fan Ginkgo** (Baiera): With four lobbed fan leaves that are tear resistant, wind weaves the forest floor into a ropey matt knee deep that can snare or tangle people in fibrous ribbons. Its seeds are nauseous. The stripped leaves act as camouflage for striped predators, especially when wind sway its shadows to create a dizzying, strobe-like optical illusion.
+### Mushrooms
+- **Ergot Mushrooms**. Agricultural settlement that fails to properly inspect their harvested cycad pith or ginkgo seeds and accidentally mills this blight into their flour, it could trigger a terrifying, village-wide plague of madness, hallucinations, and necrotic rot. They grow directly on seed cones or fronds.
+- **Gilled Mushrooms** have the classic umbrella shape. Their alchemical properties are  incredibly potent.
+- **Cordyceps** (Zombie Fungus).
+- **Giant Shelf Fungi** (Wood-Rotters). Massive, woody shelves protruding from the sides of ancient trees, sometimes glowing with bioluminescence in the damp, dark understory. These fungal shelves can grow over a yard wide and become as hard as actual wood. They are used as spiral staircases to climb hundreds of feet into the redwood canopy. It can processed into highly flammable tinder (amadou).
+
+### Evolution Timeline of Plants
 
 1. Prior to mortal life, the planet's lands were barren and its oceans were full of algae. 
 2. When plants finally appeared they were simple, resembling moss without deep roots or tall stems. 
