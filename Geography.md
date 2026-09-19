@@ -31,6 +31,11 @@
 		- ✅ Fortress walls use earthworks, not stone. 
 		- ❌ No medieval castles.
 
+
+TLDR how to convey Mesozoic in D&D quickly:
+- Fern prairie.
+- 
+
 ## Other Landmasses
 
 - Chain of Volcanic Islands
@@ -103,6 +108,12 @@ Tiers of play that involve saving the world involve these regions.
 - North and South Poles. Corrupted wastelands that are vortexes of magic.
 ## Flora
 
+The regrowth rate of Flora in Mesozoic is much greater than in the modern day. A ranger trail lasting weeks today would last only days. Massive woodfall means the forest floor isn't flat; it is a chaotic, multi-level maze of massive, rotting redwood and araucaria trunks that adventurers must climb over, crawl under, or navigate around. In places with abundant light, green ferns grow incredibly thick, turning the first ten feet of the forest into a near-solid wall of green biomass. 
+
+**Road Networks.** Standard dirt paths or medieval cobblestone roads would not survive more than a few weeks. Standard cobblestones would be pressed deep into the mud or shattered into gravel the moment a 50-ton sauropod herd walked over them.
+- **Granite Slab Roads.** Built from massive, interlocking slabs of solid granite or basalt, each the size of a wagon and several feet thick. When it rains, the mud beneath these slabs washes away, and the massive weight of dinosaurs can tilt them. Adventurers navigating ancient, ruined sections of these roads where the massive slabs jut out of the ground at jagged, treacherous angles.
+- **Alchemical "Salted Earth" White Roads.** chemical warfare against the jungle. Mix salt, volcanic ash, and the highly toxic, acidic runoff from their cycad-processing mills into a slurry. They pave their roads with this toxic cement, permanently sterilizing the earth beneath it so nothing can ever sprout there. runoff during monsoons poisons the water immediately flanking the highway.
+- Megafauna migration routes form highways of trampled earth.
 ### Red Woods
 **Root Caverns**. Their roots are shallow, creating caverns.
 
@@ -116,6 +127,10 @@ They don't produce true wood; their "trunks" are actually dense, fibrous masses 
 Tall with painfully sharp, scale-like leaves that cover the branches like reptilian armor, specifically to deter long-necked sauropods from eating them. The fallen, dried branches act like natural caltrops. They evolved leaves that function less like foliage and more like interlocking plate armor covered in razors that make it almost unclimbable. Their leaves take years to rot as foliage. Its seed cones weigh 10 - 20 pounds. Settlers plant concentric rings of them to deter animals, or bind them to form barricades. Goblins use them like spiked clubs. 
 #### Cycadeoids (Bennettitales)
 Bizarre plants looked like stout palm trees or oversized pineapples with massive, fern-like fronds sprouting from the top. They smell like rotting meat, which attracts beetles and swarms of flies. They have a thick, milky neurotoxin sap, a paralytic. It is also thermogenic, generating heat to vaporise its scent miles away, while also helping it overcome snow.
+
+#### Ghost Plants (Myco-heterotrophs)
+These ghost plants survive on sunless forest floors as parasites, tapping directly into the massive, underground fungal networks to steal nutrients from the giant trees around them. They entirely abandoned chlorophyll, turning pure white or pale pink. 
+
 ### Ginkgo
 Ginkgo wood is famously resistant to fire, rot, and boring insects, making them a premium building material for long-lasting wands, ship-hulls, or stronghold doors. The ground beneath a Ginkgoites canopy would be littered with rotting, toxic plum seeds.
 - **Wedge Ginkgo**: Wide fan leaves that block the rain, useful for shelter. The waxy stiff leaves are slippery when wet, and they pile up like a house of cards, creating a thick layer of leaves with hollow air pockets underneath.
@@ -135,6 +150,23 @@ Ginkgo wood is famously resistant to fire, rot, and boring insects, making them 
 4. Seed plants (like Connifers) eventually become important, during drier areas into forests. 
 5. Conifers, cycads, ginkgos and fern-like plants then became widespread, with flowering plants appearing. 
 6. Flowering plants diversified enormously, alongside grasses, modern forests, shrubs 
+
+## Materials
+
+- Paper interiors for non-load-bearing partitions, screens, windows, and sliding doors. The load bearing walls are red wood. The purlins and sliding doors are painted green. 
+- Leathers/skins can be processed into leather.
+- Feathers can be used as insulation or decoration.
+- Bone, teeth, shell and horn-like materials used for needles, tools, buttons/fasteners, and ornaments.
+- Amber conifers bled extreme amounts of resin to defend against massive prehistoric boring insects.
+- Iron Grain Wood: Araucaria
+- Giant Orb-Weaver Golden Silk
+- Horsetail Bast grow like massive bamboo stalks up to 30 feet tall in the swamps. Their stems are packed with tough, vertical fibers and heavy amounts of silica. By soaking the stalks in river water (retting) and beating them, weavers can extract the tough inner fibers. It spins into a coarse, highly durable fabric exactly like heavy linen or canvas, ideal for sails, sacks, and rugged ranger cloaks
+- Dyes
+	- Ammonites is used for blue/purple dye
+	- Autumn Ginkgo leaves for yellow dye
+	- Sap gorged cycad insects for crimson dye
+	- Black/brown dye from redwood tannic acid to strengthen fibers and resist rot (and provide camouflage)
+	- Copper green verdigris dye mixed with swamp algae and tree-lichen to create a brilliant, emerald-green is mildly toxic to the skin, so used for shields, war-paint. 
 
 ### Ecologies
 

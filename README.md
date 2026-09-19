@@ -16,6 +16,7 @@ It's written in plain Markdown with relative links, so it works two ways:
 | [History](./History.md) | Timeline and major historical events |
 | [Factions](./Factions.md) | Kingdoms, guilds, religion, orders, and other organizations |
 | [Cultures](./Cultures.md) | Ancestries, society, and languages |
+| [Party](./Party.md) | The player characters, their composition, and their history |
 | [People](./People.md) | NPCs |
 | [Bestiary](./Bestiary.md) | Monsters and creatures unique to the setting |
 | [Items](./Items.md) | Artifacts and notable magic items |
