@@ -12,6 +12,7 @@ It's written in plain Markdown with relative links, so it works two ways:
 | Chapter | What lives there |
 |---|---|
 | [World](./World.md) | The pitch: tone, cosmology, calendar, naming, and metaphysics of the setting |
+| [Metaphysics](./Metaphysics.md) | Glossary of metaphysical concepts: souls, planes, the Maelstrom, and more |
 | [Geography](./Geography.md) | Continents, regions, cities, oceans, and landmarks |
 | [History](./History.md) | Timeline and major historical events |
 | [Factions](./Factions.md) | Kingdoms, guilds, religion, orders, and other organizations |

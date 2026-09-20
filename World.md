@@ -38,7 +38,7 @@ Orbits at half the distance, so appears twice as large.
 
 ## Metaphysics, Creation & Religion
 
-See also: [Bestiary](./Bestiary.md) for the Dragons, [Factions](./Factions.md) for Religion.
+See also: [Bestiary](./Bestiary.md) for the Dragons, [Factions](./Factions.md) for Religion, [Metaphysics](./Metaphysics.md) for the glossary of metaphysical concepts.
 
 ### Creation of Mortals
 
