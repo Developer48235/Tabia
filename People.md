@@ -14,3 +14,10 @@ They serve two purposes, providing potential allies who can join your side, prov
 - A massive family of petty villains. Nobody respectable would marry with them. Their house name is a synonym for evil, despite them not always being this way.
 - A family of villains that engage in aggressive nepotism. Their claim to infamy is that they got away with killing an Emperor, which they did in a pretty funny manner using a large rock. Over time they lost most of their castles.
 - Two houses that have an ancestral family feud that dates back further than anyone could possibly remember. They are in a cycle of vengeance. They no qualms against war crimes.
+
+
+Heavy rain, darkened clouds,
+Burnham
+Markgraf
+Stromer
+Broili

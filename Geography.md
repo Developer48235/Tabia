@@ -34,6 +34,8 @@
 
 TLDR how to convey Mesozoic in D&D quickly:
 - Fern prairie.
+- Fish so thick the water turns silver.
+- Flood that pushes fish to the sides, predators eat at it.
 - 
 
 ## Other Landmasses
@@ -71,7 +73,6 @@ Cities function as **commanderies** — administrative divisions defined by thei
 - **City with Nearby Wine Regions**
 - **Town with Prehistoric Monuments Nearby**
 - **Town with a Literary Festival**
-
 ### Rivers, Water, and Slums
 
 Any city has two basic uses for its river: fresh drinking water, and sewers. A slum is either far from the river (and therefore far from the sewers), or, during certain times of the year, susceptible to flooding — in which case the slum effectively becomes the sewer. Historically this phenomenon mainly emerged after the industrial revolution; narratively, though, it's very dramatic, and useful for conveying poverty.
@@ -107,7 +108,6 @@ Tiers of play that involve saving the world involve these regions.
 - Unknown Continent. An isolated and vast island with hostile monsoon coasts and obstacles that deny access.
 - North and South Poles. Corrupted wastelands that are vortexes of magic.
 ## Flora
-
 The regrowth rate of Flora in Mesozoic is much greater than in the modern day. A ranger trail lasting weeks today would last only days. Massive woodfall means the forest floor isn't flat; it is a chaotic, multi-level maze of massive, rotting redwood and araucaria trunks that adventurers must climb over, crawl under, or navigate around. In places with abundant light, green ferns grow incredibly thick, turning the first ten feet of the forest into a near-solid wall of green biomass. 
 
 **Road Networks.** Standard dirt paths or medieval cobblestone roads would not survive more than a few weeks. Standard cobblestones would be pressed deep into the mud or shattered into gravel the moment a 50-ton sauropod herd walked over them.
@@ -174,3 +174,150 @@ Ginkgo wood is famously resistant to fire, rot, and boring insects, making them 
 - Forest Swamps
 - Forests
 - Grassland
+
+
+TLDR 
+- **Adventure Premise: The land is barely explored.
+- **Weather**: Heavy cloud cover and humid
+- Random Events:
+	- A fly lands on you. This is foreshadowing if you take a wound.
+	- Sound of crickets.
+	- Trees are huge. The canopies above block the sky, casting low light or even darkness even during the day. Liana-like woody vines climbing up trees.
+	- Lush wilderness but no herbivores.
+	- Undergrowth is as tell as you are. Ferns overhang the path, blocking your vision forward to about 20 feet.
+	- You was given a list of threats. But that is not on it. It mays you wonder what else they were up to.
+	- You don't find skeletons or corpses. You find red dry patches.
+	- You come across a clutch of eggs.
+	- 
+
+Geography
+- River
+- Lake
+- Swamp
+- Pond
+- Fresh Water
+	- Unusual crocodiles
+		- Some had extremely long jaws for catching fish
+	- choristoderes
+	- Turtles
+	- Crustaceans, 
+	- Armoured teleost.
+
+Prehistoric ocean wasn't just dangerous, it was a liquid horror show where nightmare creatures with giant eyes stalked through eternal darkness.
+
+
+- Spider
+- Swamp
+- Cat
+- Fox
+- Doll
+- Estuary where river sediment clouds the water.
+- My, you seem in quite the hurry, you must be ready to leave.
+- There is already someone there to help. The Emperor.
+- He is suffering an exposure to miasma. He will recover with a few days rest.
+- Windows left open. Road at night, deserted. Shadows.
+- The way we see it, it is all for the greater good. The greater good, precisely. Its all about the greater good. 
+- Huh? He turns to look. Must have been my imagination.
+- You're being watched.
+- Don't pay attention to them. If you shift your eyes to focus on them and realise their presence they will realise yours.
+- If you stay quietly in your abode, your hubris will not cost you dearly.
+- Rest assured your Grace, we will see to it that the matter is resolved tonight.
+	- I am grateful for your discretion.
+- You see a pair of footprints in the mud, just one pair. It moves on its own, suddenly more footprints appear.
+- Involving yourself with them will yield distasteful rumours.
+- The wolves teeth are gnashing. Arched plumes carried over their backs.
+- Sometimes events come suddenly and unexpectedly, leaving no room for discussion, and one can only wonder about them.
+- The more you get caught up in trying to be secure, the more you're caught up in insecurity.
+- Lanterns along the river, to scare away aquatic ambush predators.
+- Evolution hates a vaccuum.
+- What have they done to you?
+	- Opened my eyes to the truth.
+	- The gods have abandoned their creation, and look at us now.
+- Stone roots.
+	- Open cereal villages and more like fortified garden complexes. A society of continuous digging.
+	- forest → defensive ditch → thorn/plant barrier → cultivated zone → storage buildings → human settlement
+	- It wasn't civilization's favorite food. It was civilization's favorite tax unit.
+	- enlarged underground storage roots. leaves, young shoots, seed, starch flour, planting pieces. Blue-green leaves, leathery and fibrous, resistant to trampling. 
+	- pale cream or yellow, moist and starchy, with a tough outer skin.
+	- Instead of harvesting the entire field in October, farmers could leave part of it underground as a living food reserve
+	- Better harvest window than Wheat. Plant behaves like a biological pantry.
+	- When cut open, the flesh would therefore look somewhat like a potato or cassava rather than a carrot
+	- porridge; flat cakes; dumplings; fermented food; thickening agent; emergency ration. crushed root mixed with water can be fermented. an alcoholic beverage
+	- The ability to hide stone root pushes the civilization toward land registers, agricultural surveys, standardized field measurements and hereditary land taxation much earlier.
+- Tree Groves, the Crown Pine. hereditary aristocracy
+	- forests become estates. hereditary property; family estates; marriage alliances; inheritance law; genealogical records; protected forests. They inherit decades of accumulated biological capital. The elite become landed arboricultural families. Their wealth literally grows over generations. forest garden. 
+	- Who has the right to control wealth that takes generations to create? "You own the trees, but do you own the rain?" Communal rights vs Estate rights. 
+	- A productive tree cannot easily be separated from its territory. The forest itself becomes the unit of property. Land surveys still exist, but they're less important than tree registers.
+	- long, flattened needle-clusters, waxy leaves. Relatively small trees, 30m in height max, compared to nearby redwood which is 90m.
+	- The government records: number of productive trees; age; variety; expected yield; ownership; inheritance rights.
+	- The state maintains enormous seed houses. 
+	- Taxes are collected during the harvest season. Seedfall season.
+	- A bad flowering year can become a national emergency.
+	- Managed forests of crown pine, nitrogen-fixing shrubs; fruiting plants; medicinal plants; grazing animals; ponds; managed fungi.
+	- 15–25 years for the first substantial crop. several enormous horizontal branches near the upper third of the tree. Humans discover that crushed seeds produce an edible oil. cooking, lamps, waterproofing, cosmetics, medicine, food preservation, potential industrial applications. energy-dense liquid commodity. Seed has an extremely hard shell, in order to enable animals to distribute it.
+	- Cutting down trees is a form of mass violence, like genocide.
+	- Dangerous politics of old trees: 
+		- The estate owner says:"It is my tree."
+		- The city says: "Its roots affect the water supply."
+		- The temple says: "It is sacred."
+		- The foresters say: "Removing it will damage the grove."
+		- The state says: "The road must pass here."
+		- You now have political disputes in which individual trees can become constitutional issues.
+	- Wars over which consolidated inheritance system should be in place.
+
+Stone-root civilization lives comfortably with controlled burning.
+Crown-pine civilization fears uncontrolled fire.
+
+Pondmeal.
+- Not quite plant, not quite alga. floating mats produced by real algae, cyanobacteria and duckweed-like plants.
+- Natural ponds look like continuous floating carpet. brilliant green → yellow-green → almost blue-green depending on species and nutrients.
+- The colonies float at the surface because they contain tiny gas-filled cavities. This puts the photosynthetic tissue exactly where it wants to be: at the water-air interface. It doesnt need stem or roots which allowed it to grow rapidly. 
+- Day 1: 1 kg biomass, Day 5: ~2 kg, Day 9: ~4 kg, Day 13: ~8 kg. population grows exponentially when conditions are good. 
+- aquatic crop cuttings via cloning. No seeds.
+- natural distribution is patchy. 
+	- Ideal habitats include: floodplain lakes; oxbow lakes; slow rivers; marshes; shallow lagoons; volcanic ponds; seasonal wetlands. 
+	- It doesn't like: cold water; fast currents; deep shade; very acidic water; highly saline water.
+- Biological recycling. Bringing animals to the ponds. A village can channel waste into ponds rather than allowing nutrients to leave the settlement. The civilization doesn't build enormous deep reservoirs as its primary farms. Instead, it builds vast networks of shallow basins. They become water chemists and water circulation. Cities have canals. city → waste channels → settling ponds → production ponds → irrigation channels → river. Politicians control the hydraulic bureaucracy.  hundreds or thousands of separate ponds, not one large pond. multiple strains of pondmeal, which have different colours. 
+- Harvesting involves: woven screens; floating baskets; skimming frames; fine nets.
+- Heavily protein dense. 
+- A production basin needs controlled: inflow; outflow; water level; nutrient supply. If someone upstream diverts the river, your ponds stop producing. Therefore water rights become enormously valuable.
+- The state's granaries aren't primarily granaries at all. They're enormous drying and processing complexes.
+- Officials: gauges; sluice standards; canal dimensions; flow measurements; seasonal allocation schedules.
+- Water becomes legally divisible. The First Canal receives water from sunrise until midday. The Second Basin receives water during the afternoon. Downstream villages receive the remaining flow. Water becomes measurable. If an upstream community contaminates a canal, the organisms downstream can be affected. If someone releases a competing organism into a production pond, the entire harvest can collapse; like aquatic predators.
+- Farmers construct - ponds; channels; sluices; dams; reservoirs; settling basins.
+
+Key infrastructure
+- Stoneroot: Roads & warehouses	
+- Crown Pine: Orchards & storehouses	
+- Pondmeal: Canals & ponds
+
+Elite
+- Landowners
+- Hereditary Estates
+- Canal Authorities
+
+Growth Period
+- Pondmeal: days or weeks
+- Stone-root: months
+- Crown-pine: decades
+
+Cycads
+- **Environment**: Nutrient poor soils and understories.
+- **Defence**: Highly toxic.
+- **Leaf**: Evergreen
+- **Reproduction**: Huge fleshy seeds of red, orange, yellow.
+- **Core**: Leaf armour, instead of bark. Soft, spongy, sparse. Survives draughts.
+- **Proportions**: Disproportionately thick for height.
+- **Other**: Subterranean growth.
+- **Appearance**: vibrant saffron-yellow autumn foliage
+
+Ginkophytes
+- **Environment**: Nutrient poor soils and understories.
+- **Defence**: Highly toxic.
+- **Leaf**: Deciduous fan shaped.
+- **Reproduction**: Huge fleshy seeds of red, orange, yellow.
+- **Core**: Leaf armour, instead of bark. Soft, spongy, sparse. Survives draughts.
+- **Proportions**: Disproportionately thick for height.
+- **Other**: Cultivated by monks in monasteries. Famously survived the atomic bombing. Extremely resilient. 
+- **Appearance**: vibrant saffron-yellow autumn foliage
+

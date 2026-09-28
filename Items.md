@@ -4,6 +4,11 @@
 
 Artifacts and notable magic items, and their history.
 
+## Materials
+Wood
+Metal
+Stone
+
 - _(none yet)_
 
 
